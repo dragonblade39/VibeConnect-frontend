@@ -1,0 +1,14 @@
+.home-navbar{
+    justify-content: space-between;
+    font-size: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.home-text-white{
+    color:black;
+    
+}
+
+.home-btn:hover{
+    background-color: #75006f !important;
+    color:white !important;
+}
